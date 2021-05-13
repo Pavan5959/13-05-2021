@@ -22,4 +22,5 @@ export class AppComponent {
       version:'latest'
   }
   arr=['apple','banana','citrus']
+  location=window.location.href
 }
